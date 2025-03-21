@@ -35,7 +35,7 @@ Wiredigg is a comprehensive network analysis tool with advanced security feature
 ## Installation
 
 1. Clone the repository:
-     git clone https://github.com/yourusername/wiredigg.git
+     git clone https://github.com/Zrufy/wiredigg.git
    cd wiredigg
    
 2. Install required packages:
