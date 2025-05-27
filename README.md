@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/yourusername/wiredigg)
 [![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-%20%20GNU%20GPLv2%20-green?style=plastic)]([https://opensource.org/licenses/GPLv2](https://opensource.org/license/gpl-2-0))
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Wiredigg is a comprehensive network analysis tool with advanced security features designed for network administrators, security professionals, and IT enthusiasts. It provides real-time packet capture, protocol analysis, anomaly detection, and threat identification capabilities in a modern, user-friendly interface.
 
@@ -127,9 +127,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
+## License**
 
-This project is licensed under the GPL2 License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
