@@ -4,21 +4,17 @@
 [![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Wiredigg is a comprehensive network analysis tool with advanced security features designed for network administrators, security professionals, and IT enthusiasts. It provides real-time packet capture, protocol analysis, anomaly detection, and threat identification capabilities in a modern, user-friendly interface.
+Wiredigg is an open-source Python tool for real-time network packet capture, deep protocol analysis, anomaly and threat detection (with integrated machine learning), and rich security dashboards. Designed for network administrators, security professionals, and IT enthusiasts, Wiredigg offers a modern user interface, IoT/cloud analytics, and actionable threat intelligence.
+
+**Features include:**
+- Real-time packet sniffing and filtering
+- Protocol breakdown and statistics
+- Machine learning-based anomaly detection (incremental training)
+- Integrated threat intelligence (IP/domain/patterns)
+- IoT and cloud service analytics
+- Export/import, reporting, and more
 
 ![Wiredigg Main Interface](Screenshot.png)
-
-## Features
-
-- Advanced Packet Capture: Capture and analyze network packets in real-time with support for multiple protocols
-- Security Analysis: Identify potential threats and vulnerabilities using signature-based and ML-based detection
-- Protocol Support: Analyze TCP, UDP, ICMP, HTTP, HTTPS, DNS and more
-- Machine Learning: Detect network anomalies using an incrementally-trained machine learning model
-- IoT/Cloud Analysis: Identify and monitor IoT devices and cloud service connections
-- Traffic Visualization: View network traffic patterns with interactive charts
-- Predictive Analysis: Generate traffic forecasts and anomaly predictions
-- Packet Filtering: Apply filters for efficient traffic analysis
-- Export Capabilities: Save packet captures, threat reports, and analysis results
 
 ## Requirements
 
