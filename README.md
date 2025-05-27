@@ -1,4 +1,4 @@
-# Wiredigg - Advanced Network Analysis Tool
+# Wiredigg: Advanced Network Traffic Analyzer & Threat Detection Tool
 
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/yourusername/wiredigg)
 [![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen)](https://www.python.org/)
